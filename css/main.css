@@ -1,8 +1,9 @@
+@import url(http://nicholastodor.com/sf/usesf.css);
 * {
   margin: 0px; }
 
 body {
-  font-family: sans-serif; }
+  font-family: "San Francisco Display", sans-serif; }
 
 header {
   height: 100vh;
@@ -78,5 +79,4 @@ footer {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  width: 100vw;
   background: #aaa; }
